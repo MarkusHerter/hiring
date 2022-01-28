@@ -1,0 +1,9 @@
+Collecting python-jose
+  Downloading python_jose-3.3.0-py2.py3-none-any.whl (33 kB)
+Collecting ecdsa!=0.15
+  Downloading ecdsa-0.17.0-py2.py3-none-any.whl (119 kB)
+Requirement already satisfied: pyasn1 in c:\users\user\appdata\local\programs\python\python39\lib\site-packages (from python-jose) (0.4.8)
+Requirement already satisfied: rsa in c:\users\user\appdata\local\programs\python\python39\lib\site-packages (from python-jose) (4.7.2)
+Requirement already satisfied: six>=1.9.0 in c:\users\user\appdata\local\programs\python\python39\lib\site-packages (from ecdsa!=0.15->python-jose) (1.15.0)
+Installing collected packages: ecdsa, python-jose
+Successfully installed ecdsa-0.17.0 python-jose-3.3.0
